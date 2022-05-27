@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  actual-plaid:
+    container_name: actual-plaid
+    build: ./
+    ports:
+      - "8081:8081"

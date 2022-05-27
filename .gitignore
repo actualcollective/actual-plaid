@@ -1,0 +1,9 @@
+.idea/
+tmp/
+
+public/*
+main
+
+.air.toml
+app.env
+docker-compose.override.yml
